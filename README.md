@@ -1,4 +1,4 @@
-[shokiiiiii](https://github.com/shokiiiiii) さんのnotionから転記
+[shokiiiiii](https://github.com/shokiiiiii) さんのnotionから転記　　
 詳細：[shokiiiiii さんのReserch Progress](https://github.com/shokiiiiii/Research-Progress-)
 
 ## コード集
